@@ -1,0 +1,29 @@
+_repo: The-TexanA-Story-of-the-Cattle-Country_16976
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hendryx, James B. (James Beardsley)
+    birthdate: 1880
+    deathdate: 1963
+    gutenberg_agent_id: '6523'
+    url: http://www.gutenberg.org/2009/agents/6523
+description: ''
+gutenberg_issued: '2005-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16976'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Texas -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: 'The Texan
+
+  A Story of the Cattle Country'
+url: http://www.gutenberg.org/ebooks/16976
